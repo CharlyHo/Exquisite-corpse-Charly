@@ -1,0 +1,18 @@
+Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Living Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Terrace Area,Garden,Garden Area,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+Limelette,HOUSE,BUNGALOW,,,4,130,0,0,0,1,,1,811,811,,4,0,TO_BE_DONE_UP
+Houthem,HOUSE,HOUSE,,,3,162,0,0,0,1,30,1,740,1002,,4,0,GOOD
+Nassogne,HOUSE,EXCEPTIONAL_PROPERTY,,,11,1447,0,0,0,1,222,1,48364,66364,,4,1,AS_NEW
+Eghezée Branchon,HOUSE,HOUSE,,,3,146,0,0,0,1,,1,1077,1077,,4,0,AS_NEW
+Rixensart,HOUSE,VILLA,,,4,218,0,0,0,1,35,1,4000,4000,,4,0,GOOD
+Namur,HOUSE,HOUSE,,,2,110,1,0,0,1,12,1,156,156,,2,0,GOOD
+Pont-à-Celles,HOUSE,HOUSE,,,4,180,0,0,0,1,30,1,400,793,,3,0,TO_RENOVATE
+Rixensart,HOUSE,VILLA,,,4,206,1,0,0,1,30,1,545,545,,4,0,AS_NEW
+ANDERLUES,HOUSE,VILLA,,,3,141,0,0,0,1,14,1,408,848,,4,0,TO_BE_DONE_UP
+Rixensart,HOUSE,VILLA,,,4,169,0,0,0,1,15,1,1221,1221,,4,0,TO_RENOVATE
+Wavre,HOUSE,HOUSE,,,4,195,1,0,0,1,30,1,400,495,,3,0,JUST_RENOVATED
+Dalhem,HOUSE,EXCEPTIONAL_PROPERTY,,,3,210,0,0,0,1,,1,5129,5249,,4,1,AS_NEW
+Rochefort Jemelle,HOUSE,HOUSE,,,2,85,0,0,0,1,8,1,18,110,,3,0,GOOD
+Rixensart,HOUSE,VILLA,,,3,143,0,0,0,1,30,1,1000,664,,4,0,TO_RENOVATE
+Hotton,HOUSE,HOUSE,,,2,80,0,0,0,1,30,1,560,560,,3,0,TO_BE_DONE_UP
+Lasne,HOUSE,VILLA,,,4,200,1,0,0,1,100,1,2000,2180,,4,1,GOOD
+Wavre,HOUSE,VILLA,,,7,381,1,0,0,1,75,1,705,705,,4,0,AS_NEW
